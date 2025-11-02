@@ -16,4 +16,12 @@ It builds on my earlier Seattle Sounders project by using anonymized sports data
 - Claude 3.5 Sonnet (Anthropic)  
 - Gemini 1.5 Pro (Google)
 
-## Repository Structure
+
+## Next Steps
+- Complete runs for all models and prompt types  
+- Aggregate results for sentiment and player mention analysis  
+- Write final bias-detection report by **Nov 15, 2025**
+
+## Author
+**Kruti Kotadia**  
+MS in Applied Data Science, Syracuse University  
