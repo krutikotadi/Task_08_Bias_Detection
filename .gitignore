@@ -1,0 +1,19 @@
+# raw data & model outputs
+raw_data/
+runs/
+*.jsonl
+*.csv
+*.log
+*.txt
+
+# system & cache
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+Thumbs.db
+
+# results (intermediate)
+*.tmp
+*.bak
+*.checkpoint
